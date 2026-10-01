@@ -1,0 +1,26 @@
+{
+  "repo": "melodyne-editor-suite",
+  "product": "Melodyne Editor Suite",
+  "kind": "audio",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part3",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "audio-production",
+  "topics": [
+    "melodyne-editor-suite",
+    "melodyne-desktop",
+    "melodyne-windows",
+    "audio-production",
+    "music-editing",
+    "midi-tools",
+    "mixing-console",
+    "sound-design",
+    "podcast-editing",
+    "desktop-audio",
+    "windows-daw",
+    "instrument-plugins",
+    "mastering-tools"
+  ],
+  "site": "zentool.art"
+}
